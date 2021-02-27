@@ -146,6 +146,7 @@
     "bugs": "https://github.com/wytsa/PF1e-Psionics/issues",
     "url": "https://github.com/wytsa/PF1e-Psionics",
 
-  "manifest": "https://github.com/wytsa/PF1e-Psionics/raw/main/module.json"
-    
+  "manifest": "https://github.com/wytsa/PF1e-Psionics/raw/main/module.json",
+  "download": "https://github.com/wytsa/PF1e-Psionics/archive/v0.1.0.zip"
+	
 }
