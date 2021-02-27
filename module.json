@@ -1,0 +1,147 @@
+{   
+   "name": "PF1e-Psionics",   
+   "title": "PF1e Psionics",   
+   "description": "Pathfinder 1e Psionics",   
+   "author": "Solaris Levek",
+   "version": "1.0.1",
+   "minimumCoreVersion": "0.5.0",
+   "compatibleCoreVersion":"0.7.9",
+   "scripts": [
+     "scripts/roller.js"
+	],
+	"dependencies": [
+	{
+	  "name": "pf1",
+	  "type": "system"
+	}
+	],
+   "packs": [
+	{
+      "name": "buffs",
+      "label": "Psionic Buffs",
+      "path": "packs/psionic-buffs.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "classFeatures",
+      "label": "Psionic Class Features",
+      "path": "packs/psionic-class-feature.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "classes",
+      "label": "Psionic Classes",
+      "path": "packs/psionic-class.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "equipment",
+      "label": "Psionic Equipment",
+      "path": "packs/psionic-equipment.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "feats",
+      "label": "Psionic Feats",
+      "path": "packs/psionic-feat.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "races",
+      "label": "Psionic Races",
+      "path": "packs/psionic-races.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "specialAbilities",
+      "label": "Psionic Special Abilities",
+      "path": "packs/psionic-special-abilities.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "specialMaterials",
+      "label": "Psionic Special Materials",
+      "path": "packs/psionic-special-materials.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "powers",
+      "label": "Psionic Powers",
+      "path": "packs/psionic-powers.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "traits",
+      "label": "Psionic Traits",
+      "path": "packs/psionic-traits.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "traitsCharacter",
+      "label": "Psionic Character Traits",
+      "path": "packs/psionic-character-traits.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "traitsRacial",
+      "label": "Psionic Racial Traits",
+      "path": "packs/psionic-Racial-traits.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "traitsRacialAlternative",
+      "label": "Psionic Racial Traits (Alternative)",
+      "path": "packs/psionic-Racial-traits-alternative.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+    {
+      "name": "templates",
+      "label": "Psionic Templates",
+      "path": "packs/psionic-template.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "ammunition",
+      "label": "Psionic Ammunition",
+      "path": "packs/psionic-ammunition.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "weapons",
+      "label": "Psionic Weapons",
+      "path": "packs/psionic-weapons.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "armor",
+      "label": "Psionic Armors",
+      "path": "packs/psionic-armors.db",
+      "entity": "Item",
+      "module": "PF1e-Psionics"
+    },
+	{
+      "name": "scenes",
+      "label": "Psionic Scenes",
+      "path": "packs/psionic-scenes.db",
+      "entity": "Scene",
+      "module": "PF1e-Psionics"
+    }
+    ]
+    
+}
