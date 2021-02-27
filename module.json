@@ -142,6 +142,10 @@
       "entity": "Scene",
       "module": "PF1e-Psionics"
     }
-    ]
+    ],
+    "bugs": "https://github.com/wytsa/PF1e-Psionics/issues",
+    "url": "https://github.com/wytsa/PF1e-Psionics",
+
+  "manifest": "https://github.com/wytsa/PF1e-Psionics/raw/main/module.json"
     
 }
